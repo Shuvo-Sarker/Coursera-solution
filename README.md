@@ -1,5 +1,4 @@
-# Coursera-solution
-<!DOCTYPE html>
+
 <!-- saved from url=(0060)https://bewts.github.io/coursera-test/module3-solution/site/ -->
 <html lang="zxx"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
